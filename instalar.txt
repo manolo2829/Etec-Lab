@@ -1,1 +1,4 @@
+//node_modules
+npm instal
+//dependecias necesarias
 npm install bootstrap react-router-dom@6 jquery popper.js firebase
