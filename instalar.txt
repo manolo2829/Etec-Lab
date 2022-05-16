@@ -1,1 +1,1 @@
-npm install bootstrap react-router-dom@6 jquery popper.js
+npm install bootstrap react-router-dom@6 jquery popper.js firebase
